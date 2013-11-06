@@ -1,6 +1,6 @@
 # Rulers
 
-TODO: Write a gem description
+This is a basic sample gem that was made based upon the Rebuilding Rails Handbook
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+This gems acts much the same as the rails gem does but with much less functionality. Currently it is only able to start a server, run some tests, and do some basic routing.
 
 ## Contributing
 
